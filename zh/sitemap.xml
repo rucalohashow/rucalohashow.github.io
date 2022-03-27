@@ -87,7 +87,7 @@
     <loc>https://example.com/zh/author/nelson-bighetti/</loc><lastmod>2019-04-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/author/nelson-bighetti/"
+      href="https://example.com/author/admin/"
     /><xhtml:link
       rel="alternate"
       hreflang="zh"
@@ -264,12 +264,4 @@
       href="https://example.com/zh/author/%E4%B8%A5%E7%9D%BF/"
     /></url>
   <url>
-    <loc>https://example.com/zh/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.com/author/%E5%90%B3%E6%81%A9%E9%81%94/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://example.com/zh/author/%E5%90%B3%E6%81%A9%E9%81%94/"
-    /></url></urlset>
+    <loc>https://example.com/zh/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc><changefreq>weekly</changefreq></url></urlset>
