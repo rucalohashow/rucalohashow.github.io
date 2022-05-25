@@ -234,6 +234,8 @@
       href="https://rucalohashow.github.io/course/"
     /></url>
   <url>
+    <loc>https://rucalohashow.github.io/group_meeting/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://rucalohashow.github.io/author/qizhi-pei/</loc><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="zh"
