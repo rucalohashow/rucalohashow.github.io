@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuhan Chen | RUC Aloha Lab</title>
+    <link>https://rucalohashow.github.io/author/yuhan-chen/</link>
+      <atom:link href="https://rucalohashow.github.io/author/yuhan-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuhan Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://rucalohashow.github.io/author/yuhan-chen/avatar_huf87780b96e62465bf84cc0a9620cea86_146580_270x270_fill_lanczos_center_3.png</url>
+      <title>Yuhan Chen</title>
+      <link>https://rucalohashow.github.io/author/yuhan-chen/</link>
+    </image>
+    
+  </channel>
+</rss>

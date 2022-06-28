@@ -214,6 +214,8 @@
       href="https://rucalohashow.github.io/admission/"
     /></url>
   <url>
+    <loc>https://rucalohashow.github.io/author/ang-lv/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://rucalohashow.github.io/categories/</loc><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="zh"
@@ -256,6 +258,8 @@
       href="https://rucalohashow.github.io/author/rui-yan/"
     /></url>
   <url>
+    <loc>https://rucalohashow.github.io/author/shuqi-li/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://rucalohashow.github.io/social_media/</loc><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="zh"
@@ -274,4 +278,6 @@
       rel="alternate"
       hreflang="en"
       href="https://rucalohashow.github.io/tour/"
-    /></url></urlset>
+    /></url>
+  <url>
+    <loc>https://rucalohashow.github.io/author/yuhan-chen/</loc><changefreq>weekly</changefreq></url></urlset>
