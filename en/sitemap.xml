@@ -238,6 +238,10 @@
   <url>
     <loc>https://rucalohashow.github.io/group_meeting/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://rucalohashow.github.io/author/hongda-sun/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://rucalohashow.github.io/author/jixiang-hong/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://rucalohashow.github.io/author/qizhi-pei/</loc><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="zh"
@@ -269,6 +273,8 @@
       hreflang="en"
       href="https://rucalohashow.github.io/social_media/"
     /></url>
+  <url>
+    <loc>https://rucalohashow.github.io/author/tingchen-fu/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://rucalohashow.github.io/tour/</loc><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hongda Sun | RUC Aloha Lab</title>
+    <link>https://rucalohashow.github.io/author/hongda-sun/</link>
+      <atom:link href="https://rucalohashow.github.io/author/hongda-sun/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hongda Sun</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://rucalohashow.github.io/author/hongda-sun/avatar_hu4635a8cd548ff09ff82d2d7d6351d13a_3720_270x270_fill_lanczos_center_3.png</url>
+      <title>Hongda Sun</title>
+      <link>https://rucalohashow.github.io/author/hongda-sun/</link>
+    </image>
+    
+  </channel>
+</rss>
