@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tao Tan | RUC Aloha Lab</title>
+    <link>https://rucalohashow.github.io/author/tao-tan/</link>
+      <atom:link href="https://rucalohashow.github.io/author/tao-tan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tao Tan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://rucalohashow.github.io/author/tao-tan/avatar_hu21e4c2b37dd6d920e2ef13b0c4cf7ddc_9945928_270x270_fill_lanczos_center_3.png</url>
+      <title>Tao Tan</title>
+      <link>https://rucalohashow.github.io/author/tao-tan/</link>
+    </image>
+    
+  </channel>
+</rss>

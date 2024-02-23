@@ -226,6 +226,8 @@
       href="https://rucalohashow.github.io/categories/"
     /></url>
   <url>
+    <loc>https://rucalohashow.github.io/author/chuanqi-cheng/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://rucalohashow.github.io/course/</loc><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="zh"
@@ -236,9 +238,13 @@
       href="https://rucalohashow.github.io/course/"
     /></url>
   <url>
+    <loc>https://rucalohashow.github.io/author/di-luo/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://rucalohashow.github.io/group_meeting/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://rucalohashow.github.io/author/hongda-sun/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://rucalohashow.github.io/author/hongzhan-lin/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://rucalohashow.github.io/author/jixiang-hong/</loc><changefreq>weekly</changefreq></url>
   <url>
@@ -273,6 +279,8 @@
       hreflang="en"
       href="https://rucalohashow.github.io/social_media/"
     /></url>
+  <url>
+    <loc>https://rucalohashow.github.io/author/tao-tan/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://rucalohashow.github.io/author/tingchen-fu/</loc><changefreq>weekly</changefreq></url>
   <url>

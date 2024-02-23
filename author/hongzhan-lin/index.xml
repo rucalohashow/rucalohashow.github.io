@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hongzhan Lin | RUC Aloha Lab</title>
+    <link>https://rucalohashow.github.io/author/hongzhan-lin/</link>
+      <atom:link href="https://rucalohashow.github.io/author/hongzhan-lin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hongzhan Lin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://rucalohashow.github.io/author/hongzhan-lin/avatar_hu3c14b21423a404bf41f37dc462745c3d_54722_270x270_fill_lanczos_center_3.png</url>
+      <title>Hongzhan Lin</title>
+      <link>https://rucalohashow.github.io/author/hongzhan-lin/</link>
+    </image>
+    
+  </channel>
+</rss>
